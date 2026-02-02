@@ -8,7 +8,7 @@ import React, { useEffect, useState } from 'react'
 type Props = {
   agentDetail: Agent | undefined
   previewHeader?: boolean,
-  onPublish:()=>void
+  onPublish?:()=>void
 }
 
 function Header({ agentDetail, previewHeader = false,onPublish }: Props) {
