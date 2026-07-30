@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Convex-Backend-FF6F00?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" />
-  <img src="https://img.shields.io/badge/Gemini_AI-Powered-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
-  <img src="https://img.shields.io/badge/Clerk-Auth-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk Auth" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
-</p>
 
 ---
 
