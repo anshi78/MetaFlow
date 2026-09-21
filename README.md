@@ -1,7 +1,7 @@
 
 ---
 
-<h1 align="center">🤖 AgentBuilder</h1>
+<h1 align="center">🤖 MetaFlow</h1>
 
 <p align="center">
   <strong>Design AI agents that understand, think, and take action — without writing a single line of code.</strong>
@@ -15,7 +15,7 @@
 
 ## ✨ Overview
 
-**AgentBuilder** is a full-stack SaaS platform that empowers users to create, configure, and deploy custom AI agents through an intuitive visual drag-and-drop workflow editor. Built on top of **Google Gemini AI**, it enables anyone — from developers to non-technical users — to build sophisticated AI-powered chatbots and task automators without writing code.
+**MetaFlow** is a full-stack SaaS platform that empowers users to create, configure, and deploy custom AI agents through an intuitive visual drag-and-drop workflow editor. Built on top of **Google Gemini AI**, it enables anyone — from developers to non-technical users — to build sophisticated AI-powered chatbots and task automators without writing code.
 
 Think of it as a **Zapier meets ChatGPT builder** — visually wire up logic flows with AI reasoning, conditional branching, API integrations, and human-in-the-loop approvals, then deploy your agent with a single click.
 
